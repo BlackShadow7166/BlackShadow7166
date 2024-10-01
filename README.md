@@ -108,4 +108,4 @@ Welcome to my GitHub profile! I'm a passionate software developer and a final-ye
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
