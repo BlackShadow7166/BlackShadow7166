@@ -37,11 +37,6 @@ Welcome to my GitHub profile! I'm a passionate software developer and a final-ye
 - ❓ Ask me about anything related to MERN stack, Flutter and related technologies   
 
 
-</td><td valign="top" width="50%">
-
-<img src="https://res.cloudinary.com/dzo0vlnw0/image/upload/v1727800591/bcm2zvjubjyhaaas05xn.png" align="left" height="350" width="300" />  
-
-
 </td></tr></table>  
 
 <br/>  
