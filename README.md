@@ -89,24 +89,13 @@ Role-based document search: admins upload PDFs into org folders; users ask quest
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=BlackShadow7166&show_icons=true&theme=tokyonight&hide_border=true"
-    height="160"
-    alt="stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackShadow7166&layout=compact&theme=tokyonight&hide_border=true"
-    height="160"
-    alt="languages"
-  />
-  <br/>
-  <img
-    src="https://streak-stats.demolab.com?user=BlackShadow7166&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="streak"
-  />
-</div>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BlackShadow7166&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BlackShadow7166&theme=github_dark" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BlackShadow7166&theme=github_dark" height="165" />
+
+</div>
 
 
 
