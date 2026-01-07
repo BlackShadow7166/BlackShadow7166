@@ -59,7 +59,6 @@ I’m a **Full-Stack Developer** focused on building **data-heavy SaaS dashboard
 ---
 
 ## ⭐ Featured Work
-> Some production work is private — I can share a walkthrough or code sample on request.
 
 - **Job Vortex (Service Marketplace)** — Flutter + Firebase  
   Repo: https://github.com/BlackShadow7166/jobVortex
@@ -90,11 +89,24 @@ Role-based document search: admins upload PDFs into org folders; users ask quest
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BlackShadow7166&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackShadow7166&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=BlackShadow7166&show_icons=true&theme=tokyonight&hide_border=true"
+    height="160"
+    alt="stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackShadow7166&layout=compact&theme=tokyonight&hide_border=true"
+    height="160"
+    alt="languages"
+  />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=BlackShadow7166&theme=tokyonight&hide_border=true" height="170" alt="streak"/>
+  <img
+    src="https://streak-stats.demolab.com?user=BlackShadow7166&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="streak"
+  />
 </div>
+
 
 
 
