@@ -67,20 +67,35 @@ I’m a **Full-Stack Developer** focused on building **data-heavy SaaS dashboard
 - **DigitalPersona Device Connection** — Java  
   Repo: https://github.com/BlackShadow7166/digitalPersona-device-Connection
 
-- **AI Document Search (RAG)** — React + FastAPI + PostgreSQL + Vector DB *(private case study)*  
-  Role-based document search with citations & admin controls.
+---
+## 🧩 Case Studies (Private Work)
+
+### Platformation — AI Sports Analytics (Private)
+AI-powered sports analytics platform that detects **brand logos** in match footage and produces **brand exposure insights** through dashboards (charts, tables, filters).
+**My work:** Frontend development in Angular, API integration, dashboard UI/UX, performance improvements, reusable components.
+**Tech:** Angular, TypeScript, Tailwind, REST APIs, charts, data tables.
+
+### VerityV — Brand Evaluation Platform (Private)
+Front-End Developer on a brand-evaluation product. Built **data-rich Angular dashboards** with reusable components for graphs and complex tables, integrated APIs, and ensured smooth routing/state handling.
+Focused on responsive UI, performance tuning, and accessibility for a clean, maintainable interface.
+**Tech:** Angular, TypeScript, HTML/CSS, Bootstrap, REST APIs.
+
+### AI Document Search for Teams (RAG) — Web + Mobile (Private)
+Role-based document search: admins upload PDFs into org folders; users ask questions and get answers with **citations (file/page)**.
+**My work:** Web dashboard + API integration, role-based flows, search UX.
+**Tech:** React (Web), Flutter (Mobile), FastAPI, PostgreSQL, Vector DB, Docker, Nginx.
+
 
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=BlackShadow7166&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200&v=1" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackShadow7166&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200&v=1" height="160" />
-
-<img src="https://streak-stats.demolab.com?user=BlackShadow7166&theme=tokyonight&hide_border=true&cache_seconds=7200&v=1" height="170" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=BlackShadow7166&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackShadow7166&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=BlackShadow7166&theme=tokyonight&hide_border=true" height="170" alt="streak"/>
 </div>
+
 
 
 ---
