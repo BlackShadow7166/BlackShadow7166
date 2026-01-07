@@ -39,9 +39,13 @@
 ---
 
 ## 🚀 About Me
-- I build **data-heavy dashboards**, **enterprise web apps**, and **workflow tools**.
-- Strong in **Angular architecture** (reusable components, routing/state, performance) and **API integration**.
-- Comfortable shipping end-to-end: UI → APIs → DB → deployment.
+I’m a **Full-Stack Developer** focused on building **data-heavy SaaS dashboards** and **workflow-driven apps**.
+
+- **Frontend:** Angular + React (TypeScript), reusable components, state management, performance & UI polish  
+- **Backend:** FastAPI + Node.js (REST APIs), auth, validation, pagination, integrations  
+- **Mobile:** Flutter apps with clean architecture & smooth UX  
+- **DevOps:** Docker, Git, CI/CD basics — comfortable shipping features end-to-end
+
 
 ---
 
@@ -71,22 +75,13 @@
 ## 📊 GitHub Stats
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=BlackShadow7166&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackShadow7166&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=BlackShadow7166&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200&v=1" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackShadow7166&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200&v=1" height="160" />
+
+<img src="https://streak-stats.demolab.com?user=BlackShadow7166&theme=tokyonight&hide_border=true&cache_seconds=7200&v=1" height="170" />
 
 </div>
 
-<div align="center">
-
-<img height="170" src="https://streak-stats.demolab.com?user=BlackShadow7166&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BlackShadow7166&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-
-</div>
 
 ---
 
