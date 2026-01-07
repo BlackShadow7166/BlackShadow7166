@@ -14,93 +14,113 @@
 
 
 
-### Glad to see you here!  
-Welcome to my GitHub profile! I'm a passionate software developer and a final-year BSCS student, with expertise in **MERN** and mobile app development in **Flutter**. I focus on building high-quality, user-centric products with plans to evolve my projects beyond my studies. Additionally, I have experience in **DevOps**, where I manage the full software lifecycle, from development to deployment, ensuring smooth integration and delivery through CI/CD pipelines and cloud services.
-  
-  
+<!-- =========================
+      PROFILE README
+      Username: BlackShadow7166
+========================== -->
 
-<br/>  
+<div align="center">
 
+  <h1>Hi, I'm Muhammad Usama Rasheed 👋</h1>
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+  <p>
+    <b>Full-Stack Developer</b> • Angular / React (Dashboards) • FastAPI / Node.js (APIs) • Flutter (Mobile)
+  </p>
 
-- 🔭 I’m currently working on **Final Year Project (FYP)**which aims to build a scalable product involving both a mobile app and a web app. I'm excited to continue working on this product even after graduation, transforming it into something impactful.  
-  
+  <!-- Typing headline -->
+  <p>
+    <a href="https://github.com/BlackShadow7166">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+data-heavy+SaaS+dashboards+%26+workflow+apps;Clean+UI+architecture+%7C+Production-ready+APIs+%7C+Flutter+mobile;Always+learning%2C+always+shipping." alt="Typing SVG" />
+    </a>
+  </p>
 
-- 🔭 I am doing my part time job as full stack developer at **Revolve AI**  
-  
+  <!-- Badges -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=BlackShadow7166&style=flat&color=58A6FF" alt="profile views" />
+    <img src="https://img.shields.io/github/followers/BlackShadow7166?label=Followers&style=flat&color=58A6FF" alt="followers" />
+    <img src="https://img.shields.io/github/stars/BlackShadow7166?label=Stars&style=flat&color=58A6FF" alt="stars" />
+  </p>
 
-- 🌱 I’m currently learning native mobile app development in **Kotlin**   
-  
+  <!-- Quick links -->
+  <p>
+    <a href="mailto:usamamian7166@gmail.com"><img src="https://img.shields.io/badge/Email-usamamian7166%40gmail.com-1f6feb?style=flat&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/muhammad-usama-rasheed-ba781a248/"><img src="https://img.shields.io/badge/LinkedIn-Connect-1f6feb?style=flat&logo=linkedin&logoColor=white" /></a>
+    <a href="https://x.com/UsamaMian7166"><img src="https://img.shields.io/badge/X-Follow-1f6feb?style=flat&logo=x&logoColor=white" /></a>
+  </p>
 
-- ❓ Ask me about anything related to MERN stack, Flutter and related technologies   
+</div>
 
+---
 
-</td></tr></table>  
+## 🚀 About Me
+- I build **data-heavy dashboards**, **enterprise web apps**, and **workflow tools**.
+- Strong in **Angular architecture** (reusable components, routing/state, performance) and **API integration**.
+- Comfortable shipping end-to-end: UI → APIs → DB → deployment.
 
-<br/>  
+---
 
+## 🧩 Tech Stack
+<div align="center">
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="25" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="25" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="25" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="25" /></a>  
-<a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="25" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="25" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
-</div>  
+<img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,bootstrap,tailwind,flutter,dart,python,fastapi,nodejs,express,postgres,mysql,firebase,docker,git,github,linux&perline=10" />
 
-<br/>  
+</div>
 
+---
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+## ⭐ Featured Work
+> Some production work is private — I can share a walkthrough or code sample on request.
 
-<img src="https://github-readme-stats.vercel.app/api?username=BlackShadow7166&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+- **Job Vortex (Service Marketplace)** — Flutter + Firebase  
+  Repo: https://github.com/BlackShadow7166/jobVortex
 
-</td><td valign="top" width="50%">
+- **DigitalPersona Device Connection** — Java  
+  Repo: https://github.com/BlackShadow7166/digitalPersona-device-Connection
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackShadow7166&hide_border=true&layout=compact" align="left" style="width: 100%" />
+- **AI Document Search (RAG)** — React + FastAPI + PostgreSQL + Vector DB *(private case study)*  
+  Role-based document search with citations & admin controls.
 
-</td></tr></table>  
+---
 
-<br/>  
+## 📊 GitHub Stats
+<div align="center">
 
-  
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=BlackShadow7166&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackShadow7166&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-<br/>  
+</div>
 
-  
+<div align="center">
 
-<br/>  
+<img height="170" src="https://streak-stats.demolab.com?user=BlackShadow7166&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
+</div>
 
-<br />
+<div align="center">
 
-----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BlackShadow7166&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+
+</div>
+
+---
+
+## 🏁 What I’m focusing on
+- Building clean, scalable **Angular dashboards**
+- Designing robust **FastAPI/Node** backends (auth, pagination, validation, docs)
+- Shipping polished **Flutter** apps with smooth UX
+
+---
+
+## 🤝 Let’s Collaborate
+If you’re building a dashboard-heavy product or API-driven platform, I’d love to help.
+
+- 📩 **Email:** usamamian7166@gmail.com  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/muhammad-usama-rasheed-ba781a248/
+
+---
+
+<div align="center">
+  <sub>Made with ❤️ • Keep shipping</sub>
+</div>
+
 
