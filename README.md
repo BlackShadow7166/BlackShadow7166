@@ -69,7 +69,7 @@ I’m a **Full-Stack Developer** focused on building **data-heavy SaaS dashboard
 ---
 ## 🧩 Case Studies (Private Work)
 
-### Platformation — AI Sports Analytics (Private)
+### AI Sports Analytics (Private)
 AI-powered sports analytics platform that detects **brand logos** in match footage and produces **brand exposure insights** through dashboards (charts, tables, filters).
 **My work:** Frontend development in Angular, API integration, dashboard UI/UX, performance improvements, reusable components.
 **Tech:** Angular, TypeScript, Tailwind, REST APIs, charts, data tables.
