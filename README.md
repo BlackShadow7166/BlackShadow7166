@@ -8,7 +8,7 @@
   <h1>Hi, I'm Muhammad Usama Rasheed 👋</h1>
 
   <p>
-    <b>Full-Stack Developer</b> • React / Angular (Dashboards) • FastAPI / Node.js (APIs) • AI / RAG Integrations
+    <b>Full-Stack Developer</b> • React / Angular • FastAPI / Node.js • AI & RAG Integrations
   </p>
 
   <!-- Typing headline -->
@@ -36,17 +36,6 @@
 
 ---
 
-## 🚀 About Me
-I'm a **Full-Stack Developer** focused on building **AI-powered SaaS dashboards** and **production-ready APIs**.
-
-- **Frontend:** React + Angular (TypeScript), reusable components, state management, performance & UI polish
-- **Backend:** FastAPI + Node.js (REST APIs), auth, RBAC, validation, third-party integrations
-- **AI Integrations:** RAG (Retrieval-Augmented Generation), vector search, LLM-powered workflows
-- **DevOps:** Docker, AWS, RabbitMQ background jobs, Git, CI/CD basics
-- **Mobile (secondary):** Flutter apps with clean architecture
-
----
-
 ## 🧩 Tech Stack
 <div align="center">
 
@@ -56,32 +45,13 @@ I'm a **Full-Stack Developer** focused on building **AI-powered SaaS dashboards*
 
 ---
 
-## 🧩 Case Studies (Private Work)
+## ⭐ Projects
 
-### IntelliPDF — AI Document Search Portal (RAG)
-Enterprise search portal where teams query internal documents in natural language and get context-aware answers.
-**My work:** Built the React frontend and FastAPI REST APIs, implemented role-based access control (RBAC), and contributed to RAG-based document retrieval workflows.
-**Tech:** React, FastAPI, PostgreSQL, Vector DB, RAG, RBAC.
-
-### Platformation — AI Sports Media Analytics
-AI-powered platform that detects brand logos in match footage and converts detections into brand-exposure insights through dashboards (charts, tables, filters).
-**My work:** Designed the MySQL database schema from client requirements, built Angular frontend features and FastAPI integrations, and implemented RabbitMQ background jobs for an audio pipeline (extraction → chunking → Azure Whisper transcription). Independently built a FastAPI video analysis pipeline end-to-end: given a video URL, the service downloads the video, extracts frames, sends them to Roboflow for detection, stores results in the database, and computes brand-exposure metrics (screen time, frequency).
-**Tech:** Angular, FastAPI, MySQL, RabbitMQ, Docker, AWS, Roboflow, Azure Whisper.
-
-### VerityV — B2B FinTech/RegTech SaaS Dashboard
-Front-End Developer on a B2B FinTech/RegTech SaaS dashboard for enterprise users.
-**My work:** Built data-rich Angular dashboards with reusable components for graphs and complex tables, integrated REST APIs, and implemented reporting/data-visualization functionality.
-**Tech:** Angular, TypeScript, HTML/CSS, Bootstrap, REST APIs.
-
----
-
-## ⭐ Featured Work
-
-- **Job Vortex (Service Marketplace)** — Flutter + Firebase
-  Repo: https://github.com/BlackShadow7166/jobVortex
-
-- **DigitalPersona Device Connection** — Java
-  Repo: https://github.com/BlackShadow7166/digitalPersona-device-Connection
+- **IntelliPDF** — AI document search portal (RAG) · React, FastAPI, PostgreSQL, Vector DB
+- **Platformation** — AI sports media analytics platform · Angular, FastAPI, MySQL, RabbitMQ, Roboflow
+- **VerityV** — B2B FinTech/RegTech SaaS dashboard · Angular, TypeScript, REST APIs
+- **Job Vortex** — Service marketplace app · Flutter, Firebase — [repo](https://github.com/BlackShadow7166/jobVortex)
+- **DigitalPersona Device Connection** — Java — [repo](https://github.com/BlackShadow7166/digitalPersona-device-Connection)
 
 ---
 
@@ -97,15 +67,7 @@ Front-End Developer on a B2B FinTech/RegTech SaaS dashboard for enterprise users
 
 ---
 
-## 🏁 What I'm focusing on
-- Building AI-integrated **React/Angular dashboards**
-- Designing robust **FastAPI** backends (RAG, auth, RBAC, validation)
-- Going deeper into **vector search and LLM-powered application architecture**
-
----
-
 ## 🤝 Let's Collaborate
-If you're building an AI-powered dashboard, API-driven platform, or RAG application, I'd love to help.
 
 - 📩 **Email:** usamamian7166@gmail.com
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/muhammad-usama-rasheed-ba781a248/
